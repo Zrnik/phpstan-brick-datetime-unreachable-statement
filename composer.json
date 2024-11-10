@@ -1,0 +1,10 @@
+{
+    "name": "zrnik/phpstan-brick-datetime-unreachable-statement",
+    "description": "",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "require": {
+        "phpstan/phpstan": "^1",
+        "brick/date-time": "^0.7"
+    }
+}
